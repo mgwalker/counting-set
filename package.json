@@ -1,6 +1,6 @@
 {
   "name": "counting-set",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple counting set",
   "main": "./CountingSet.js",
   "exports": "./CountingSet.js",
@@ -10,6 +10,10 @@
   },
   "author": "Greg Walker",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgwalker/counting-set"
+  },
   "devDependencies": {
     "eslint": "^8.6.0",
     "eslint-config-airbnb-base": "^15.0.0",
